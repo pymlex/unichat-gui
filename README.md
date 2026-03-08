@@ -1,6 +1,6 @@
 # UniChat GUI 
 
-<img width="960" height="412" alt="Снимок экрана (621)" src="https://github.com/user-attachments/assets/1ae222da-df58-4692-be44-58c4ce2cf106" />
+<img width="946" height="412" alt="Снимок экрана (621)" src="https://github.com/user-attachments/assets/3e141cf2-2a99-420d-9a55-f2e49790ad7c" />
 
 A static single-page frontend that communicates with the orchestrator (`/ask`) and displays the LLM-generated Markdown output (tables, code blocks with highlighting). Includes basic saved-translations UI (localStorage) with CSV / PDF export and a Stop button that calls `/stop` on the orchestrator.
 
